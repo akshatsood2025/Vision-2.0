@@ -23,7 +23,7 @@
 <h3 align=center>Plan of Action</h3>
 
 1. The bot is placed on one of the starting zones (represented by black arrows on the arena). <br>
-2. An abbreviation which associate to specific colour and shape is as follows<br>
+2. Abbreviations which corresponds to a specific colour and shape are as follows<br>
 
 <table align=center>
    <td align="center">
