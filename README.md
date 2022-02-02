@@ -20,7 +20,7 @@
 5. On the outermost path there will be <b>four black arrows</b> at the end of connecting paths pointing in clockwise direction. These arrows mark the <b>starting zone</b> where the bot will be placed initially.<br>
 6. The centre of the arena is the <b>home zone</b>. The bot has to traverse the arena, complete a full round in a clockwise manner and finish at the home zone. <br>
 
-<h3 align=center> Task To Do</h3>
+<h3 align=center>Plan of Action</h3>
 
 1. The bot is placed on one of the starting zones (represented by black arrows on the arena). <br>
 2. An abbreviation which associate to specific colour and shape is as follows<br>
