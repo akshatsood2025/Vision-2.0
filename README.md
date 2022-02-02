@@ -78,7 +78,7 @@
     
 3. On start of each turn, a function returns a <b>random shape-color combination</b> from the above list. The bot then finds the block (with the corresponding shape and colour) which it can reach following a clockwise path and is at the least distance from its current position.<br>
 4. As soon as the bot stops moving, bot has to ask for input using the function provided. <br>
-5. This continues till the bot has completed a full round around the center, then it should move to home zone via the connecting paths that it started on. <br>
+5. This continues till the bot has completed a full round around the center, then it should move to home zone.<br>
 6. On reaching the home zone the bot should signal that it has finished the task and process will terminate. <br>
     
 <h3 align=center> <a href="https://youtu.be/en2RBVNymok">Our Approach </a></h3>
