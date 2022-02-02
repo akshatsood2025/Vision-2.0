@@ -81,7 +81,7 @@
 5. This continues till the bot has completed a full round around the center, then it should move to home zone via the connecting paths that it started on. <br>
 6. On reaching the home zone the bot should signal that it has finished the task and process will terminate. <br>
     
-<h3 align=center> <a href="https://youtu.be/w765wvIUqoU">Our Approach </a></h3>
+<h3 align=center> <a href="https://youtu.be/en2RBVNymok">Our Approach </a></h3>
     
 1. We used <b>Computer Vision</b> for Image Segmentation (extracting shapes of different colors from the arena) and <b>Breadth First Search</b> algorithm (on a customly designed directed graph) to trace path from the current position of the bot to all occurences of the required shape in the arena. From all the paths secured above, one with minimum length was considered. Popular physics engine <b>PyBullet</b> was utilized for simulating our bot on the arena. <b>Aruco Marker</b> was used to determine the current position of the bot at any instant. <br>
 2. First, a <b>Directed Graph</b> is created, in which edges are added in the direction of allowed movement. <br>
